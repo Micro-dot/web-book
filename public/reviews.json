@@ -2,37 +2,43 @@
     {
         "id": "1",
         "name": "Anant Vijay",
-        "ratings": 3.2,
-        "img": "https://media.istockphoto.com/photos/smiling-indian-man-looking-at-camera-picture-id1270067126?k=20&m=1270067126&s=612x612&w=0&h=ZMo10u07vCX6EWJbVp27c7jnnXM2z-VXLd-4maGePqc="
+        "ratings": "★★☆☆☆",
+        "img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWVufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "review": "This was different. Full disclosure-I'm an unapologetic John Grisham fan! I've randomly read many Grisham books. Recently, I decided to read the complete library in the order written."
     },
     {
         "id": "2",
         "name": "Vasdev Mohi",
-        "ratings": 5,
-        "img": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+        "ratings": "★★★★☆",
+        "img": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+        "review": "This book became a pretty good movie. I read it years ago when I still bought every book this author wrote. This second read left me not nearly as satisfied. The story is good, it is just not presented as coherently as I remembered it. "
     },
     {
         "id": "3",
         "name": "Richard Powers",
-        "ratings": 4.2,
-        "img": "https://preview.redd.it/cpslext1vx971.png?auto=webp&s=a67d767ddec283c3490613cdb0b40c180a33daf6"
+        "ratings": "★★★★☆",
+        "img": "https://preview.redd.it/cpslext1vx971.png?auto=webp&s=a67d767ddec283c3490613cdb0b40c180a33daf6",
+        "review": "Dear Mr Grisham; Please consider writing another book about Mark and his family when Mark is in his twenties! What a great story it would be! I have been reading for 66 years and your book is on the very TOP of my list! Thanks, Collette Bills, Lincoln, Nebraska "
     },
     {
         "id": "4",
         "name": "Priyanka Chopra Jonas",
-        "ratings": 4.3,
-        "img": "https://www.seekpng.com/png/detail/57-576498_man-face-png-happy-people-face-png.png"
+        "ratings": "★★★☆☆",
+        "img": "https://www.seekpng.com/png/detail/57-576498_man-face-png-happy-people-face-png.png",
+        "review": "I loved this book, and wish John Grisham would write a sequel; I would like to know what happens to the characters after the ending because they seemed so real to me. It is a book you will read more than once, and enjoy it every time. "
     },
     {
         "id": "5",
         "name": "Shakoor Rather",
-        "ratings": 4.5,
-        "img": "https://media.istockphoto.com/photos/middle-aged-man-portrait-picture-id1285156699?b=1&k=20&m=1285156699&s=170667a&w=0&h=l8Bs_xHY2um7IUHKXj7szXvNDW5jMJmnLMuvQWO5vEo="
+        "ratings": "★★★☆☆",
+        "img": "https://media.istockphoto.com/photos/middle-aged-man-portrait-picture-id1285156699?b=1&k=20&m=1285156699&s=170667a&w=0&h=l8Bs_xHY2um7IUHKXj7szXvNDW5jMJmnLMuvQWO5vEo=",
+        "review": "From the first few pages I was drawn in by this book, it was exceptional. Extremely well written and captivating and as a result of reading this I have since read every book by Julliane Hoffman. Her writing is superb and I would recommend all her titles. I hope that in future she publishes some more brillant titles."
     },
     {
-        "id": "1",
+        "id": "6",
         "name": "Jokha Alharthi",
-        "ratings": 4,
-        "img": "https://st.depositphotos.com/2309453/3449/i/600/depositphotos_34490345-stock-photo-confident-casual-unshaven-young-man.jpg"
+        "ratings": "★★★★☆",
+        "img": "https://st.depositphotos.com/2309453/3449/i/600/depositphotos_34490345-stock-photo-confident-casual-unshaven-young-man.jpg",
+        "review": " normally am not interested in legal thrillers due to interpretation and understanding of legal matters, but being a human relations graduate student going into a therapy career, I was curious. Turns out I still don't care for reading about legalities; however, the parallelism of the protagonist's story to that of her counterpart was quite an interesting twist."
     }
 ]

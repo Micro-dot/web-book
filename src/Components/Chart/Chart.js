@@ -1,5 +1,5 @@
 import React from 'react';
-
+import { AreaChart, Line, LineChart, Tooltip, XAxis, YAxis } from 'recharts';
 const Chart = () => {
     const data =
         [
@@ -42,7 +42,15 @@ const Chart = () => {
         ]
     return (
         <div>
-            <h2>This is Chart</h2>
+            <LineChart width={500} height={300} data={data}>
+                <Line type="monotone" dataKey={'sell'}></Line>
+                <XAxis dataKey={'month'}></XAxis>
+                <Tooltip></Tooltip>
+                <YAxis></YAxis>
+            </LineChart>
+            <div>
+            <AreaChart></AreaChart>
+            </div>
         </div>
     );
 };

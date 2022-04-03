@@ -1,13 +1,65 @@
-.into-section{
+.into-section {
     display: flex;
     margin-top: 20px;
-    margin:20px;
+    margin: 20px;
 }
-.text{
+
+.text {
     margin-left: 25px;
 }
+
 .image img {
     width: 500px;
     height: 300px;
     border-radius: 5px;
+}
+.client-text{
+    color: orange;
+    text-align: center;
+}
+.reviews {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 30px;
+    grid-gap: 20px;
+}
+
+.review {
+    border: 1px solid whitesmoke;
+    text-align: justify;
+    padding: 15px;
+    box-shadow: 2px 2px 15px 5px whitesmoke;
+}
+
+.review div {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    justify-content: center;
+}
+
+.review img {
+    width: 90px;
+    height: 90px;
+    border-radius: 100px;
+}
+
+.button button {
+    cursor: pointer;
+    background-color: #4F86F7;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.button button:hover{
+    color: white;
+    
+
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    
 }
