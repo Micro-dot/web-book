@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Anant Vijay",
+        "ratings": 3.2,
+        "img": "https://media.istockphoto.com/photos/smiling-indian-man-looking-at-camera-picture-id1270067126?k=20&m=1270067126&s=612x612&w=0&h=ZMo10u07vCX6EWJbVp27c7jnnXM2z-VXLd-4maGePqc="
+    },
+    {
+        "id": "2",
+        "name": "Vasdev Mohi",
+        "ratings": 5,
+        "img": "https://images.unsplash.com/photo-1564564321837-a57b7070ac4f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWFufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    },
+    {
+        "id": "3",
+        "name": "Richard Powers",
+        "ratings": 4.2,
+        "img": "https://preview.redd.it/cpslext1vx971.png?auto=webp&s=a67d767ddec283c3490613cdb0b40c180a33daf6"
+    },
+    {
+        "id": "4",
+        "name": "Priyanka Chopra Jonas",
+        "ratings": 4.3,
+        "img": "https://www.seekpng.com/png/detail/57-576498_man-face-png-happy-people-face-png.png"
+    },
+    {
+        "id": "5",
+        "name": "Shakoor Rather",
+        "ratings": 4.5,
+        "img": "https://media.istockphoto.com/photos/middle-aged-man-portrait-picture-id1285156699?b=1&k=20&m=1285156699&s=170667a&w=0&h=l8Bs_xHY2um7IUHKXj7szXvNDW5jMJmnLMuvQWO5vEo="
+    },
+    {
+        "id": "1",
+        "name": "Jokha Alharthi",
+        "ratings": 4,
+        "img": "https://st.depositphotos.com/2309453/3449/i/600/depositphotos_34490345-stock-photo-confident-casual-unshaven-young-man.jpg"
+    }
+]

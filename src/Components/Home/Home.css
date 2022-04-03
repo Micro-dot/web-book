@@ -1,0 +1,13 @@
+.into-section{
+    display: flex;
+    margin-top: 20px;
+    margin:20px;
+}
+.text{
+    margin-left: 25px;
+}
+.image img {
+    width: 500px;
+    height: 300px;
+    border-radius: 5px;
+}
