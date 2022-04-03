@@ -13,7 +13,7 @@ const Home = () => {
                 </div>
                 <div className='text'>
                     <h1>Find your best book.</h1>
-                    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora quis nisi beatae? Eaque ullam necessitatibus maxime. Sint voluptatum, dolorum sed illo, deleniti optio dolores eum a, fuga rem dolor iste?</p>
+                    <p>Cicero once said, ” A room without books is like a body without a soul”. Book Readers from all over the world would definitely agree on this. Maybe in the free time, you are reading a great book and want to show your friends and followers. </p>
                     <div className='button'>
                         <button>Live Demo</button>
                     </div>

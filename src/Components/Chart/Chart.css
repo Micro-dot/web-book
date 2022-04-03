@@ -1,0 +1,9 @@
+.chart{
+    display: flex;
+    gap: 100px;
+    margin: 0 90px ; 
+}
+h1{
+    text-align: center;
+    color: #4f86f7;
+}
