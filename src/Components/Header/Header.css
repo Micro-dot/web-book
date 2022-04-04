@@ -4,13 +4,10 @@ nav a{
     margin: 25px;
 }
 nav a:hover{
-    background-color: coral;
-    padding: 5px;
-    border-radius: 5px;
+   color: tomato;
 
 }
 nav {
-    background-color:thistle;
     padding: 25px;
     text-align: center;
 }

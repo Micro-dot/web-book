@@ -50,11 +50,10 @@
     padding: 10px;
     border: none;
     border-radius: 5px;
+    width: 250px;
 }
 .button button:hover{
     color: white;
-    
-
 }
 
 .button {
@@ -62,4 +61,14 @@
     justify-content: center;
     margin-bottom: 10px;
     
+}
+.demo-button button{
+    cursor: pointer;
+    background-color: #4F86F7;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.demo-button button:hover{
+    color: white;
 }

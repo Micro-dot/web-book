@@ -14,7 +14,7 @@ const Home = () => {
                 <div className='text'>
                     <h1>Today a reader, Tomorrow a leader</h1>
                     <p>Cicero once said, ” A room without books is like a body without a soul”. Book Readers from all over the world would definitely agree on this. Maybe in the free time, you are reading a great book and want to show your friends and followers. </p>
-                    <div className='button'>
+                    <div className='demo-button'>
                         <button>Live Demo</button>
                     </div>
 
@@ -24,7 +24,7 @@ const Home = () => {
             <div className='reviews'>
                 {
                     reviewsSlice.map(review =>
-                        <div className='review'>
+                        <div key={review.id} className='review'>
                             <div>
                                 <p><img src={review.img} alt="" /></p>
                                 <p>{review.name}</p>
