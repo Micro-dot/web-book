@@ -7,3 +7,8 @@ h1{
     text-align: center;
     color: #4f86f7;
 }
+@media only screen and (max-width: 600px) {
+    .chart{
+        display: inline;
+    }
+}

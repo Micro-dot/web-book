@@ -11,3 +11,8 @@ nav {
     padding: 25px;
     text-align: center;
 }
+@media only screen and (max-width: 600px) {
+    nav a{
+        margin: 5px;
+    }
+}

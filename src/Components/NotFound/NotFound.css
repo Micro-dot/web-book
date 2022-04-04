@@ -1,3 +1,12 @@
 .notfoundimg{
     text-align: center;
 }
+@media only screen and (max-width: 600px) {
+    .notfoundimg img{
+        height:290px ;        
+        width:350px ;
+    }
+    .notfoundimg {
+        
+    }
+}

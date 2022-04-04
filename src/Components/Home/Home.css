@@ -13,10 +13,12 @@
     height: 300px;
     border-radius: 5px;
 }
-.client-text{
+
+.client-text {
     color: orange;
     text-align: center;
 }
+
 .reviews {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -52,7 +54,8 @@
     border-radius: 5px;
     width: 250px;
 }
-.button button:hover{
+
+.button button:hover {
     color: white;
 }
 
@@ -60,15 +63,37 @@
     display: flex;
     justify-content: center;
     margin-bottom: 10px;
-    
+
 }
-.demo-button button{
+
+.demo-button button {
     cursor: pointer;
     background-color: #4F86F7;
     padding: 10px;
     border: none;
     border-radius: 5px;
 }
-.demo-button button:hover{
+
+.demo-button button:hover {
     color: white;
+}
+
+@media only screen and (max-width: 600px) {
+    .into-section {
+        display: inline;
+    }
+
+    .image img {
+        width: 300px;
+        height: 200px;
+        margin: 0 20px;
+    }
+
+    .reviews {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        margin: 30px;
+        grid-gap: 20px;
+    }
+
 }

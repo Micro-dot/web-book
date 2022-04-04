@@ -44,9 +44,9 @@ const Chart = () => {
     return (
         <div className='chart'>
 
-            <div>
+            <div >
                 <h1>MONTH BILL</h1>
-                <LineChart width={500} height={300} data={data}>
+                <LineChart className='chart1' width={500} height={300} data={data} >
                     <Line type="monotone" dataKey={'sell'}></Line>
                     <XAxis dataKey={'month'}></XAxis>
                     <Tooltip></Tooltip>
@@ -56,9 +56,9 @@ const Chart = () => {
 
             <div>
                 <h1>Investment vs revenue</h1>
-                <AreaChart width={500} height={300} data={data}>
-                    <Area type="monotone" dataKey={'investment'} color={'green'}></Area>
-                    <Area type="monotone" dataKey={'revenue'}></Area>
+                <AreaChart width={500} height={300} data={data} className='chart2'>
+                    <Area type="monotone" dataKey={'investment'} ></Area>
+                    <Area type="monotone" dataKey={'revenue'} fill='#88EE88'></Area>
                     <XAxis dataKey={'month'}></XAxis>
                     <Tooltip></Tooltip>
                     <YAxis></YAxis>
